@@ -96,13 +96,13 @@
             <div class='credit-info'>
                 <div class='credit-info-content'>
                     <form id="payForm">
-                          <input class='input-field' id="name" type="text" placeholder="Full Name"></input>
-                          <input class='input-field' id="email" type="email" placeholder="Email"></input>
-                          <input class='input-field' id="number" type="tel" placeholder="Phone Number"></input>
+                          <input class='input-field' id="name" type="text" placeholder="Full Name" required></input>
+                          <input class='input-field' id="email" type="email" placeholder="Email" required></input>
+                          <input class='input-field' id="number" type="tel" placeholder="Phone Number" required></input>
                           <table class='half-input-table'>
                               <tr>
                                   <td>
-                                      <input class='input-field' id="postalCode" type="text" placeholder="Postal Code"></input>
+                                      <input class='input-field' id="postalCode" type="text" placeholder="Postal Code" required></input>
                                   </td>
                               </tr>
                           </table>
