@@ -18,7 +18,7 @@
     <nav class="navbar">
         <div class="navbar-center">
             <span class="nav-icon">
-                <a href="/login"><i class="fas fa-user"></i></a>
+                <a href="/home"><i class="fas fa-user"></i></a>
             </span>
             <!-- <a href="/home"><img src="pizza/images/logo.svg" alt="store logo"></a> -->
             <a href="/cart">

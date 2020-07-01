@@ -21,7 +21,7 @@
     <nav class="navbar">
         <div class="navbar-center">
             <span class="nav-icon">
-                <a href="#"><i class="fas fa-user"></i></a>
+                <a href="/home"><i class="fas fa-user"></i></a>
             </span>
             <!-- <span class="h1">Pizza <span style="color:f09d51;!important">Spot</span></span> -->
             <a href="/cart">

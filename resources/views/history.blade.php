@@ -23,7 +23,7 @@
     <nav class="navbar">
         <div class="navbar-center">
             <span class="nav-icon">
-                <a href="login.html"><i class="fas fa-user"></i></a>
+                <a href="/home"><i class="fas fa-user"></i></a>
             </span>
             <!-- <a href="index.html"><img src="pizza/images/logo.svg" alt="store logo"></a> -->
             <a href="/cart">
