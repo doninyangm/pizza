@@ -88,8 +88,5 @@ addBtn.addEventListener('click', e => {
     window.location.href = "/checkout";
 });
 
-
-
-
 // cartUI();
 // calcTotalPrice();
