@@ -12,4 +12,7 @@ and make an order.
 - JavaScript
 - CSS
 
-## Software Requirements
+## Default user
+
+- email: test@gmail.com
+- password: password
