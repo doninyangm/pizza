@@ -69,7 +69,7 @@ class UI {
             type: 'GET',
             success:function(result){
               let cartItem = { ...result, amount: 1 };
-              console.log(cartItem);
+              // console.log(cartItem);
           //     let cartItem = { ...Storage.getProduct(id), amount: 1 };
               // cart = [...cart, cartItem];
               if(Storage.getCart().length){
@@ -96,7 +96,7 @@ class UI {
     if(Storage.getCart().length > 0){
         cartItems.innerText = Storage.getCart().length;
     } else{
-      console.log(Storage.getCart().length);
+      // console.log(Storage.getCart().length);
       cartItems.innerText = "0";
     }
   }
