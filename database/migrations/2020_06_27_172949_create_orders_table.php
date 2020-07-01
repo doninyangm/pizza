@@ -19,7 +19,7 @@ class CreateOrdersTable extends Migration
             $table->integer('no_item');
             $table->decimal('price_euro');
             $table->decimal('price_dollar');
-            $table->longText('address');
+            $table->longText('address')->nullable();
             $table->integer('postal_code')->nullable();
             $table->timestamps();
         });

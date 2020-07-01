@@ -106,7 +106,7 @@
                                   </td>
                               </tr>
                           </table>
-                          <textarea class='input-field' id="address" type="text" rows="4" placeholder="Address"></textarea>
+                          <textarea class='input-field' name="address" id="address" type="text" rows="4" placeholder="Address"></textarea>
                           <button type="submit" class='pay-btn' style="position:unset;">Checkout</button>
                       </form>
                 </div>
