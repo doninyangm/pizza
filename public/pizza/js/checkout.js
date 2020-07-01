@@ -50,6 +50,9 @@ payForm.addEventListener('submit', e => {
     .then((value) => {
         //clear $quantities
         //clear chart;
+        localStorage. removeItem('itemQuantity');
+        localStorage. removeItem('cart');
+        localStorage. removeItem('totalPrice');
         window.location.href = "/history";
     });
   })
